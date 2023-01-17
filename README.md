@@ -1,5 +1,6 @@
 # Prediction-using-Unsupervised-ML
 Here I have created the prediction model using the Unsupervised ML and I have predicted the model using the K means Clustering
+
 ALGORITHM USED - K-Means
 K-means is a centroid-based algorithm, or a distance-based algorithm, where we calculate the distances to assign a point to a cluster. In K-Means, each cluster is associated with a centroid.
 
