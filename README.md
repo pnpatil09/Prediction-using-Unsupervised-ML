@@ -9,5 +9,4 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 
 ● Used Python to perform this task
 
-● Dataset : https://bit.ly/3kXTdox
 # The Sparks Foundation : Data Science and Business analytics Internship (GRIP)
